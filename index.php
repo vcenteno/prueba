@@ -1,6 +1,7 @@
 <?php 
 echo "hola";
 echo phpinfo();
-echo "chau"; df
+
+echo "chau";
 
 ?>
